@@ -19,7 +19,7 @@ This Google Apps Script automates the extraction of product details (**EAN, lang
 ### ▶️ Fetch product details
 Run the following function in the Apps Script editor:
 ```javascript
-pobierzEANdlaWszystkich_v2();
+fetchEANForAll_v2();
 ```
 This will scrape data and populate the spreadsheet.
 
