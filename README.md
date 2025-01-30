@@ -32,9 +32,9 @@ resetLastProcessedRow();
 ## 📂 File Structure
 ```
 /your-repository
+│── main.py                   # Scrapes product details from Gamefinity
 │── fetch_product_data.gs      # Fetches product details from Gamefinity
 │── reset_processed_row.gs     # Resets the last processed row for reprocessing
-│── utils.gs                   # Utility functions for extracting product details
 │── README.md                  # Documentation for setup and usage
 ```
 
